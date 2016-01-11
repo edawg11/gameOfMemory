@@ -1,0 +1,31 @@
+.col-sm-3 {
+	height: 120px;
+	margin-bottom: 20px;
+}
+
+.container{
+	margin-top: 10px;
+}
+
+.holder	{
+	background-color: red;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+}
+
+
+.glyphicon {
+    font-size: 75px;
+    line-height: 100px;
+    text-align: center;
+
+}
+
+.invis {
+	display: none;
+}
+
+.blue {
+	background-color: blue;
+}
